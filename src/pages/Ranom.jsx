@@ -1,5 +1,8 @@
-export default function (){
+export default function Ranom (){
     return(
-        <h1>O brabo</h1>
+        <main>
+            <h1>O brabo</h1>
+        </main>
+        
     )
 }
